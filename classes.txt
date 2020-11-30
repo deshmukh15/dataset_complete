@@ -1,0 +1,10 @@
+auto
+bicycle
+bus
+car
+minitruck
+motorbike
+riksha
+truck
+van
+
